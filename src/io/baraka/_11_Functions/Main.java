@@ -28,6 +28,7 @@ public class Main {
         After definition we can use the function by referring to ist name/label
         with some open and close parenthesis
         functions help in designing reusable code
+        In java we must specify the return type of a function when we define it
          */
 
         /*
