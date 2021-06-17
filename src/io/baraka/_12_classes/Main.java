@@ -16,5 +16,6 @@ public class Main {
         michael.setMajor("Data Science");
         System.out.println(michael);
         michael.Mail("Exam Results are out");
+        AccessModifiers.main();
     }
 }
