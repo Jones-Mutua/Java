@@ -14,7 +14,6 @@ public class BuiltInFunctions {
 
         /*
         Using Math for robust arithmetical operations
-
          */
         System.out.println(Math.pow(2, 5));;
     }

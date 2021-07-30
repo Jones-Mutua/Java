@@ -2,6 +2,9 @@ package io.baraka._10_loops;
 
 public class Loops {
     public static void main(String[] args) {
+        /*loops are used to perform repetitive tasks */
+
+
         //while
         int count = 0;
         while (count <= 10) {

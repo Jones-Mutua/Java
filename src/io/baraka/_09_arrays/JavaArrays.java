@@ -14,7 +14,7 @@ public class JavaArrays {
 
         System.out.println(Arrays.toString(fruits));
         System.out.println(fruits[1]);
-        System.out.println(fruits[fruits.length -1]);
+        System.out.println(fruits[fruits.length - 1]);
 
         /*
         The length of the array is the highest index + 1
@@ -23,6 +23,7 @@ public class JavaArrays {
         /*
         TODO
         Expound on arrays in Java
+        Write a program to remove duplicated from an array
          */
     }
 }

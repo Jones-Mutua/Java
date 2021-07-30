@@ -10,7 +10,6 @@ public class Student {
 /*
 constructor {defines holes to be filled during instantiation }
 special type of method provided by ava to initialize any classes object
-
 */
 
     public Student(String name, int age, String major, double GPA) {
@@ -21,7 +20,10 @@ special type of method provided by ava to initialize any classes object
     }
 
 
-    //getters and setters
+    /*
+    getters and setters
+    can be considered as methods (behaviours of an entity)
+     */
     public void setName(String name) {
         this.name = name;
     }

@@ -1,4 +1,4 @@
-package io.baraka._08_conditionals;
+package io.baraka._08_conditions_scope;
 
 import java.util.Scanner;
 
