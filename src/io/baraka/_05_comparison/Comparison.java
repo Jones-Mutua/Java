@@ -3,6 +3,8 @@ package io.baraka._05_comparison;
 public class Comparison {
     public static void main(String[] args) {
         int age = 17;
+        /*We can compare two or more values by using comparison operators */
+
         //greater
         System.out.println(age > 10);
 
@@ -18,7 +20,7 @@ public class Comparison {
         //not equal
         System.out.println(age != 17);
 
-        //EQUAL
+        //equality
         System.out.println(age == 17);
     }
 }

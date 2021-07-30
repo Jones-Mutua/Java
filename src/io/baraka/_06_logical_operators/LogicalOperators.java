@@ -4,6 +4,11 @@ public class LogicalOperators {
     public static void main(String[] args) {
         int age = 17;
         /*
+        When we need to run some piece of code that depends on two or more conditions
+        we can be able to combine the checks for the conditions using Logical operators
+        */
+
+        /*
         and operator
         evaluates to true if both conditions are true
          */
@@ -17,7 +22,7 @@ public class LogicalOperators {
         System.out.println(age < 35 || age >18  );
 
        /*
-        and operator
+        not operator
         flips or reverses the evaluation of a condition
          */
         System.out.println( !(age >18)  );
