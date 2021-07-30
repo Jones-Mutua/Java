@@ -1,5 +1,5 @@
 
-#Learning Java Basics 
+# Learning Java Basics 
 ### This repository holds codes  in companion with taught class sessions to help trainees acquire the best foundation for *Java* programming 
 
 Before we begin, there are a few things to note
