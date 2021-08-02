@@ -12,19 +12,16 @@ public class LogicalOperators {
         and operator
         evaluates to true if both conditions are true
          */
-        System.out.println(age < 35 && age >18 );
 
 
         /*
         or operator
         evaluates to true if any of the conditions are true
          */
-        System.out.println(age < 35 || age >18  );
 
        /*
         not operator
         flips or reverses the evaluation of a condition
          */
-        System.out.println( !(age >18)  );
     }
 }

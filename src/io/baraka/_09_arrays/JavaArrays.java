@@ -10,20 +10,24 @@ public class JavaArrays {
         String fruit3 = "Pear";
 
         //declare an array
-        String[] fruits = {"Apple", "Mango", "Pear"};
 
-        System.out.println(Arrays.toString(fruits));
-        System.out.println(fruits[1]);
-        System.out.println(fruits[fruits.length - 1]);
+        // get the length of an array
+
+        //get an item at a certain index (from start and end)
+
+        //convert an array to string
+
 
         /*
         The length of the array is the highest index + 1
         The highest index of an array is the length of the array -1
+        Arrays in java are immutable
          */
-        /*
-        TODO
-        Expound on arrays in Java
-        Write a program to remove duplicated from an array
-         */
+
     }
 }
+ /*
+TODO
+Expound on arrays in Java
+Write a program to remove duplicated from an array
+ */

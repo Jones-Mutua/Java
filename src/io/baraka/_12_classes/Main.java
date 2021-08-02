@@ -10,12 +10,9 @@ public class Main {
         Entities have behaviours(methods)
          */
 
-        Student michael = new Student("Michael Achieng",
-                23, "Java Programming", 4.0);
-        System.out.println(michael);
-        michael.setMajor("Data Science");
-        System.out.println(michael);
-        michael.Mail("Exam Results are out");
+        /*
+        Instantiate student class
+         */
         AccessModifiers.main();
     }
 }

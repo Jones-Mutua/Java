@@ -10,15 +10,14 @@ public class ReferenceTypes {
          */
 
         /*
-        Declare a string
-        String  studentName ="Ben Hamilton";
+        Declare a string example with values
+        e.g.  studentLastName, studentFirstName
          */
 
-        String studentFirstName = "Ben";
-        String studentLastName = "Hamilton";
 
-        System.out.println(studentFirstName);
-        System.out.println(studentLastName);
+        /*
+        Print out the two variables
+         */
 
         /*
         Other examples of reference types are arrays, Interfaces, classes and objects

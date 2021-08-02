@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class UserInput {
     public static void main(String[] args) {
-        /*To get a users input, their is a special class in Java called Scanner
-        Its used to scan the terminal for different kinds of user inputs
+        /*To get a users input, there is a special class in Java called Scanner
+        It's used to scan the terminal for different kinds of user inputs
         depending on the desired data type, we can capture user data as an Integer, String etc
         by using the next() method on the scanner class
         */
@@ -14,10 +14,7 @@ public class UserInput {
         /*Write a program that asks the user their age and outputs the age in a sentence
         You are  [sample age] years old
          */
-        System.out.println("What is your age ");
-        Scanner input = new Scanner(System.in);
-        int userAge = input.nextInt();
-        System.out.println("You are " + userAge + " Years Old");
+
 
     }
 }
