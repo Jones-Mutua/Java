@@ -12,7 +12,7 @@ public class Main {
           Create  a Parent class user
           create a class Trainer that inherits from user
           create another class Student that also inherits from user
-         show case inheritance and create instances of a class
+         showcase inheritance and create instances of a class
 
          */
         Student sam = new Student("samson", "sam@gmail.com", "123Asd",
